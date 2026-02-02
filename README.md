@@ -37,6 +37,7 @@ pkg install python
 git clone https://github.com/cyberhuntersbd/termux-setup
 cd termux-setup
 python setup.py
+```
 📂 FEATURES
 Automated setup
 
